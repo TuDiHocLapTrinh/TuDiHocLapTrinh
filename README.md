@@ -37,6 +37,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker" title="Docker" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/-Amazon%20aws-282C34.svg?logo=amazon-aws&style=plastic" alt="Amazon aws" title="Amazon aws" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/-Postman-282C34.svg?logo=postman&style=plastic" alt="Postman" title="Postman" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/-Steam-000000.svg?logo=steam&style=plastic" alt="Steam" title="Steam" height="25" /></span>
+&nbsp;
 
 <h3 align="center">🔥 GitHub Stats 🔥</h3>
 <div align=center>
