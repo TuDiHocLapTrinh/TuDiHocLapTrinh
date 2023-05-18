@@ -39,7 +39,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/-Postman-282C34.svg?logo=postman&style=plastic" alt="Postman" title="Postman" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/-Steam-000000.svg?logo=steam&style=plastic" alt="Steam" title="Steam" height="25" /></span>
+<span><img src="https://img.shields.io/badge/-Steam-282C34.svg?logo=steam&style=plastic" alt="Steam" title="Steam" height="25" /></span>
 &nbsp;
 
 <h3 align="center">🔥 GitHub Stats 🔥</h3>
