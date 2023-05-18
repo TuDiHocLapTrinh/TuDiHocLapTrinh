@@ -38,12 +38,12 @@
 <span><img src="https://img.shields.io/badge/-Steam-282C34.svg?logo=steam&style=popout" alt="Steam" title="Steam" height="25" /></span>
 &nbsp;
 
-----
+<h2 align="center">🔥 Certified 🔥</h2>
 <p align="center"> 
 <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width='10%'/>
 </p>
 
-<h3 align="center">🔥 GitHub Stats 🔥</h3>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
 <div align=center>
   <a href="#" title="TuDiHocLapTrinh">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuDiHocLapTrinh&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
