@@ -42,6 +42,11 @@
 <span><img src="https://img.shields.io/badge/-Steam-282C34.svg?logo=steam&style=plastic" alt="Steam" title="Steam" height="25" /></span>
 &nbsp;
 
+----
+<p align="center"> 
+<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width='10%'/>
+</p>
+
 <h3 align="center">🔥 GitHub Stats 🔥</h3>
 <div align=center>
   <a href="#" title="TuDiHocLapTrinh">
