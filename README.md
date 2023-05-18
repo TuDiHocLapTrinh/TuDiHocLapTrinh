@@ -38,7 +38,7 @@
 <span><img src="https://img.shields.io/badge/-Steam-282C34.svg?logo=steam&style=popout" alt="Steam" title="Steam" height="25" /></span>
 &nbsp;
 
-<h2 align="center">🔥 Certified 🔥</h2>
+<h2 align="center">🏆Certificate🏆</h2>
 <p align="center"> 
 <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width='10%'/>
 </p>
