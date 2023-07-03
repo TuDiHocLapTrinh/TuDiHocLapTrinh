@@ -41,8 +41,6 @@
 <h2 align="center">🏆Certificate🏆</h2>
 <p align="center"> 
 <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width='10%'/>
-</p>
-<p align="center"> 
 <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width='10%'/>
 </p>
 
